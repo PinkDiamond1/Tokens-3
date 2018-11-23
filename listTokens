@@ -4,14 +4,14 @@
     "symbol": "SCI",
     "decimal": 0,
     "type": "default",
-    "isSecurity": 1
+    "isSecurity": true
   },
   {
     "address": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac",
     "symbol": "BCAP",
     "decimal": 0,
     "type": "default",
-    "isSecurity": 1
+    "isSecurity": true
   },
   {
     "address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
@@ -4518,7 +4518,7 @@
     "symbol": "POLY",
     "decimal": 18,
     "type": "default",
-    "isSecurity": 1
+    "isSecurity": true
   },
   {
     "address": "0x779B7b713C86e3E6774f5040D9cCC2D43ad375F8",
