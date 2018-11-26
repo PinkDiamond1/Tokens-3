@@ -1,5 +1,19 @@
 [
   {
+    "address": "0x1556a3ddb4fa2e9e8d6355380e4d22f9d32592cc",
+    "symbol": "SCI",
+    "decimal": 0,
+    "type": "default",
+    "isSecurity": true
+  },
+  {
+    "address": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac",
+    "symbol": "BCAP",
+    "decimal": 0,
+    "type": "default",
+    "isSecurity": true
+  },
+  {
     "address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
     "symbol": "$FFC",
     "decimal": 18,
@@ -4503,7 +4517,8 @@
     "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
     "symbol": "POLY",
     "decimal": 18,
-    "type": "default"
+    "type": "default",
+    "isSecurity": true
   },
   {
     "address": "0x779B7b713C86e3E6774f5040D9cCC2D43ad375F8",
